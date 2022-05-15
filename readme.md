@@ -1,5 +1,5 @@
-# ProgrammersBlog
-ProgrammersBlog
+# Programmers Blog
+Programmers Blog
 
-### ScreenShot
+### Screen Shot
 ![Image1](https://i.imgur.com/oZjorEJ.png)
